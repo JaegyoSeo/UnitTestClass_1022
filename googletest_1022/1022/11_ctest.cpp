@@ -1,6 +1,7 @@
-
 // #include "foo.h"
-int add(int a, int b);
+// int add(int a, int b);
+
+#include "foo.c"
 
 #include "gtest/gtest.h"
 
